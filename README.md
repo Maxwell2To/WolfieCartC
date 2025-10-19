@@ -1,6 +1,7 @@
 # WolfieCartC
 When in doubt, use Copilot
 
+0. Fetch the newest version
 1. Make changes, then save
 2. Check github desktop to see changes
 3. Commit to main (local machine)
